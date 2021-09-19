@@ -3,11 +3,7 @@
 errlog is a simple log library based on anyhow, it wraps file name and line number for your error
 message.
 
-Add the following dependencies into your Cargo.toml
-
-    errlog = "v0.0.1"
-
-Import errlog macro
+Add the errlog dependencies into your Cargo.toml, then import errlog macro
 
     use errlog::{elog, AnyContext, AnyResult};
 
