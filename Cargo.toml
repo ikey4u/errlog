@@ -1,0 +1,10 @@
+[package]
+name = "errlog"
+version = "0.0.0"
+edition = "2018"
+authors = ["ikey4u <pwnkeeper@gmail.com>"]
+description = "A simple error logger based on anyhow"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0.43"
