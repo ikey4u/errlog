@@ -1,7 +1,7 @@
 [package]
 name = "errlog"
-version = "0.0.2"
-edition = "2018"
+version = "0.1.0"
+edition = "2021"
 authors = ["ikey4u <pwnkeeper@gmail.com>"]
 description = "A simple error logger based on anyhow"
 license = "MIT"
